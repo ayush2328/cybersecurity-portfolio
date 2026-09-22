@@ -6,10 +6,10 @@ A practical record of my journey in cybersecurity — documenting what I have le
 
 ## About Me
 
-**Name:** [Your Name]
-**College:** [Your College]
-**Course / Program:** [Course Name]
-**Location:** [City, Country]
+**Name:** Ayush Guota
+**College:** SRMIST
+**Course / Program:** B.tech CSE with specialization in Cyber Security  
+**Location:** [Ghaziabad, India]
 
 ### Interests
 
