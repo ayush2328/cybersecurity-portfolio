@@ -6,7 +6,7 @@ A practical record of my journey in cybersecurity — documenting what I have le
 
 ## About Me
 
-**Name:** Ayush Guota
+**Name:** Ayush Gupta
 **College:** SRMIST
 **Course / Program:** B.tech CSE with specialization in Cyber Security  
 **Location:** [Ghaziabad, India]
